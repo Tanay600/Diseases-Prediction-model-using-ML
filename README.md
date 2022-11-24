@@ -1,2 +1,2 @@
 # Diseases-Prediction-model-using-ML
-This is the project using ML(Machine Learning) , this Project folder contains the Heart Prediction Model , Diabetes Prediction Model and the Merged Model which contains the both Disease ,these Models are done with the help of Python Language and IDE used here is Jupyter Notebook. 
+This Project folder contains the Heart Prediction Model , Diabetes Prediction Model and the Merged Model which contains the both Disease ,these Models are done with the help of Python Language, using SK_learn library for ML and IDE used here is Jupyter Notebook. These Model predicts that a patient can have a particular disease or not according to their Age, sex, gender, Blood Pressure, insulin, etc....
